@@ -33,12 +33,12 @@ Iris dataset contains three flowers and each flower is represented by four featu
 
 
 ![alt text](orig_data.png "Original Data")
-## This plot is the representation of the original data
+### This plot is the representation of the original data
 
 # Predictions
 
 ![alt text](predict.png "Original Data")
-## This plot is the representation of the kNN predictions
+### This plot is the representation of the kNN predictions
 
 
 > The given code (iris.py) has all the explanations and plots. 
