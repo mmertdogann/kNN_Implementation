@@ -42,4 +42,5 @@ Iris dataset contains three flowers and each flower is represented by four featu
 
 
 > The given code (iris.py) has all the explanations and plots. 
-> In the report.pdf there are detail explanations about the implementation.
+> The given Jupyter notebook (IrisDataset.ipynb) has a demo at the end of the notebook.
+> In the report.pdf there are detail explanations about the implementation. 
